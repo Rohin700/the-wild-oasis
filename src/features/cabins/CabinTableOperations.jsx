@@ -1,6 +1,6 @@
 import TableOptions from "../../ui/TableOperations";
 import Filter from "../../ui/Filter";
-import SortBy from "../../ui/sortBy";
+import SortBy from "../../ui/SortBy";
 
 function CabinTableOperations() {
   return (
